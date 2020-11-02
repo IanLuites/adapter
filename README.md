@@ -172,7 +172,10 @@ or in `:compile` mode the module is purged and recompiled with the new adapter.
 
 ## Roadmap
 
-- Improve documentation.
+### To 1.0.0
+
+- Improve documentation
+- Travis builds
 
 ## Changelog
 
@@ -181,7 +184,6 @@ or in `:compile` mode the module is purged and recompiled with the new adapter.
 Initial release.
 
 ## License
-
 
 MIT License
 
